@@ -3,7 +3,7 @@ import { FaLongArrowAltRight } from 'react-icons/fa'
 
 const ServiceHero = () => {
   return (
-    <div className='w-full h-auto px-5 py-28 bg-[#FFE6D2]'>
+    <div className='w-full h-auto px-5 py-28 bg-[#FFE6D2] mt-20'>
       <div className='container mx-auto flex items-center gap-96 max-xl:justify-between max-xl:gap-20 max-sm:flex-col-reverse'>
         <div className='flex flex-col gap-5 max-sm:items-center'>
           <p className='text-sm uppercase font-semibold text-black'>

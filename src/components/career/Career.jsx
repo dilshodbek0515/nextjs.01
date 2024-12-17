@@ -3,7 +3,7 @@ import React from 'react'
 import career from '@/assets/images/career.png'
 const Career = () => {
   return (
-    <div className='w-full h-auto px-5 py-24'>
+    <div className='w-full h-auto px-5 py-24 mt-20'>
       <div className='container mx-auto flex flex-col items-center justify-center gap-5'>
         <p className='text-black uppercase text-sm font-light'>
           CAREER AT FINSWEET

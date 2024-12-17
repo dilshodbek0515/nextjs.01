@@ -6,7 +6,7 @@ import card2 from '@/assets/images/card2.png'
 import card3 from '@/assets/images/card3.png'
 const Compane = () => {
   return (
-    <div className='w-full h-auto px-5 py-24'>
+    <div className='w-full h-auto px-5 py-24 mt-20'>
       <div className='container mx-auto flex flex-col gap-5'>
         <div className='w-full flex justify-between items-center'>
           <div className='w-7 h-7 bg-[#FFD3AF]'></div>

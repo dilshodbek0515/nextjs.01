@@ -3,7 +3,7 @@ import { FaLongArrowAltRight } from 'react-icons/fa'
 
 const Inner = () => {
   return (
-    <div className='w-full h-auto px-5 py-28'>
+    <div className='w-full h-auto px-5 py-28 mt-20'>
       <div className='container mx-auto flex items-center gap-52 max-xl:justify-between max-xl:gap-20 max-md:flex-col-reverse max-sm:flex-col-reverse'>
         <div className='flex flex-col gap-10 max-md:items-center max-sm:items-center '>
           <p className='text-sm uppercase font-semibold text-black'>

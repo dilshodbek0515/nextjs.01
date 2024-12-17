@@ -5,7 +5,7 @@ import logo from '@/assets/images/Logo.svg'
 import { IoMenu } from 'react-icons/io5'
 const Header = () => {
   return (
-    <header className='w-full h-auto bg-[#1c1d2b] p-5'>
+    <header className='w-full h-auto bg-[#1c1d2b] p-5 fixed top-0 left-0'>
       <div className='container mx-auto flex justify-between items-center py-4'>
         <Link href={'/'}>
           <Image className='w-32' src={logo} alt='image' />
