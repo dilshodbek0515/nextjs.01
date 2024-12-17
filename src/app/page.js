@@ -1,9 +1,9 @@
-import Hero from '@/components/hero/Hero'
+import Home from './home/page'
 
 const page = () => {
   return (
     <div>
-      <Hero />
+      <Home />
     </div>
   )
 }

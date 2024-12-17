@@ -1,10 +1,10 @@
-import Career from '@/components/career/Career'
+import Inner from '@/components/inner/Inner'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-        <Career/>
+        <Inner/>
     </div>
   )
 }
